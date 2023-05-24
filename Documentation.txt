@@ -4,3 +4,5 @@ git add - to add the file back to the in the git
 git commit -m "message here" - to add the message to the commit
 git log - to get the info of the commits and the author
 git remote add origin - to add local repo to remote place we can use anything instead of origin but its one of the standard practice
+git push -u origin master - the '-u' tag pushes the local repo into the remote repo
+
