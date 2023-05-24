@@ -9,3 +9,4 @@ git rm --cached -r . - to remove all the files from the stagging area
 touch .gitignore - it creates the file where write down the name of files which we want to hide or dont want to commit.
 GIT IGNORE RULES - *EXTENSION - (IT MEANS ALL THE FLES WITH SIMILLAR EXTENSIONS WILL BE IGNORED)
                  - #comment - (TO COMMENT THE STUFF)
+git clone url - it clones the repo from the url
