@@ -5,4 +5,7 @@ git commit -m "message here" - to add the message to the commit
 git log - to get the info of the commits and the author
 git remote add origin - to add local repo to remote place we can use anything instead of origin but its one of the standard practice
 git push -u origin master - the '-u' tag pushes the local repo into the remote repo
-
+git rm --cached -r . - to remove all the files from the stagging area
+touch .gitignore - it creates the file where write down the name of files which we want to hide or dont want to commit.
+GIT IGNORE RULES - *EXTENSION - (IT MEANS ALL THE FLES WITH SIMILLAR EXTENSIONS WILL BE IGNORED)
+                 - #comment - (TO COMMENT THE STUFF)
