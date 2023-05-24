@@ -1,0 +1,5 @@
+git int - to initalize the git for the folder
+git status -  to show the status of active log of master branch
+git add - to add the file back to the in the git
+git commit -m "message here" - to add the message to the commit
+git log - to get the info of the commits and the author
